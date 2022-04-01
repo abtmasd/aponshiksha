@@ -1,0 +1,29 @@
+.topbar-container {
+  background-color: blue;
+  height: 5vh;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+/* ======== TOPBAR CONTENT ======== */
+
+.left-top {
+  display: flex;
+  flex-grow: 3;
+  justify-content: left;
+  background-color: aquamarine;
+}
+.center-top {
+  display: flex;
+  flex-grow: 6;
+  justify-content: center;
+  background-color: bisque;
+}
+.right-top {
+  background-color: rgba(21, 206, 67, 0.774);
+  display: flex;
+  flex-grow: 3;
+  justify-content: right;
+}
