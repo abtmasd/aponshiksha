@@ -6,7 +6,7 @@ function TopBar() {
     <>
       <div className="topbar-container">
         <div className="left-top">Left</div>
-        <div className="center-top">Center</div>
+        <h1 className="center-top">আপন শিক্ষা পরিবার</h1>
         <div className="right-top">Right</div>
       </div>
     </>
