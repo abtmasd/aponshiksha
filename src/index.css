@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Galada&family=Noto+Sans+Bengali:wght@100;300;400;500;700;900&family=Noto+Serif+Bengali:wght@100;300;400;500;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;0,900;1,500&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -6,5 +7,10 @@
   outline: 0;
   box-sizing: border-box;
   list-style: none;
-  text-decoration: none;
+  text-decoration: none;  
+}
+body {
+  
+  background-image: url(https://lh3.googleusercontent.com/KR5E0BI4rS_z_T7KthBDarr9MB0CvnmodRv3LqwHinnf-Z4x5B2z7wYv__Nw-Yk5eEJlPkutDzQ3_6TICBc6xjNOZx7ayxxL9_lyoNLP6Gh3rnxDX2DAdibFHpT1hoEWqLbsIZY3QCMD6qA9glD_DViZdbZGkc2dF1i_8aPMCwlqQORc677LUmUCTxd00BZ8ALGWR_92HvyPF_H37KwcYg0VxH6b3DrhYa7xrLolTVo1HI4H1QYKnTP5mUpedgcOjxuChQo_qzvIaLPYnSJbSdq2P73TlqJMVD9mMP_4VhYjQtbfQJjOXC3h8ZFKhnohCY8DLKx0Y_J4lISvmlsFhZWnHu2x97w5vPD9ArTy3IvYb5ZbUDUIo2XAzn4GsDH4-U7T62Mqu-bRW5xqJc53sYXsgLmQGmS2UqHrKHPelQs30pqPC6bEmm0ybPn6aprhLHv-wGLvhNXu5yWcE6a35ky24cc_KMkNU9BTCHsTRjxV0-9PvBkaiVG_EdAdv6O2cvBe56oz3DyKuqjHDodFAOvhBQnXK9REJeIl4HIX6bO8hnVJeGJxBHdZhWid0vi5wVatOsf5PFGWQziAEsny-hxM3CLRiDiMNOr0wV6xdapS1bF6ssu_Wo-DTDNmg4mIC0YwyzqnTcX2f4GVEvepvpS0PKWXmq3sklrWfwccq_TwB9SyZz4IoHUc7ZA6Ip4ZqA9EETgMVsaGmBUW33khOn3BOS3GgzZSLphycPzANeWcUFnF8OOJK-KNZovO2CM=s100-no?authuser=0);
+  background-repeat: repeat;
 }
