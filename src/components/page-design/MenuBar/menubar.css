@@ -1,0 +1,33 @@
+.menu-list {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: rgba(36, 11, 199, 0.761);
+  display: flex;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(101, 15, 214, 0.596);
+}
+.menu-list:hover {
+  background-color: rgba(14, 134, 9, 0.856);
+}
+
+.menu-list-item {
+  font-size: smaller;
+  border-radius: 3px;
+  justify-content: center;
+  margin: 5px;
+  padding: 1vh;
+  display: flex;
+  flex: auto;
+  background-color: blanchedalmond;
+  box-shadow: 0px 8px 16px 0px rgba(243, 11, 100, 0.938).2);
+}
+
+.menu-list-item:hover {
+  background-color: aqua;
+  cursor: pointer;
+  
+}
