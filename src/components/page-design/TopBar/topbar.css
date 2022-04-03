@@ -17,6 +17,10 @@
   background-color: aquamarine;
 }
 .center-top {
+  color: brown;
+  position: relative;
+  top: -2px;
+  font-family: 'Atma', cursive;
   font-size: x-large;
   display: flex;
   flex-grow: 6;
